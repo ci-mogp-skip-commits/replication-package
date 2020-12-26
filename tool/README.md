@@ -1,7 +1,6 @@
 # General info
 This toolkit is a powerful library/API written in Java that can detect Travis CI skipped commits applied in the history of a Java/Ruby/PHP project.
-For a detailed description of the tool and its associated research work, you can refer to the following research papers:
-* Detecting CI Skip Commits Using Multi-objective Evolutionary Search: An Industrial Case Study
+For a detailed description of the tool and its associated research work, you can refer to the following research paper *Detecting CI Skip Commits Using Multi-objective Evolutionary Search: An Industrial Case Study*
 # How to use it ?
 This toolkit needs a Github project that uses Travis CI to work. We recommend to launch it with Java10.
 1. To launch the analysis of a project, you have to define:
