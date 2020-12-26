@@ -15,5 +15,5 @@ Then you can use this tool based on a cross-project prediction, for example :
 ```
 java -jar gp_ci_skipper.jar https://github.com/GrammarViz2/grammarviz2_src 7383e4cb28925f0c3406d7f9fcf0b338f8133864 T
 ```
-#Final instruction
+# Final instruction
 Please keep the directory *lib* along with the jar file. It contains the libraries and files required to launch our tool.
